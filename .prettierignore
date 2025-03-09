@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+
+# Npm package manager files
+package-lock.json
+package.json
+
+# .vscode files
+/.vscode/
+
+# next.js build output
+.next
+
+# type definitions by TypeScript
+# **/typings/**/*.ts

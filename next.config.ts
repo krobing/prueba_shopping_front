@@ -1,7 +1,11 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next'
+import { withYak } from 'next-yak/withYak'
 
 const nextConfig: NextConfig = {
   /* config options here */
-};
+  experimental: {
+    typedRoutes: true,
+  },
+}
 
-export default nextConfig;
+export default withYak(nextConfig)
