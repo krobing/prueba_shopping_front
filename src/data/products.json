@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Smartwatch Deportivo Resistente al Agua - Innovación y Estilo",
+    "price": 100,
+    "image": "pexels-akshayanilphotography-18259150.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gimbal Estabilizador para Smartphone - Captura Videos Suaves y Estables",
+    "price": 200,
+    "image": "pexels-zion-10421293.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Steam Deck - Consola Portátil para Experiencias de Juego Inmersivas",
+    "price": 350,
+    "image": "pexels-alex-andrews-271121-14005916.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Plateado de Alto Rendimiento - Diseño Elegante y Potente",
+    "price": 300,
+    "image": "pexels-alex-leonardo-133112082-10170363.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Teclado y Mouse Acer con Conexión USB - Precisión y Comodidad",
+    "price": 500,
+    "image": "pexels-bertellifotografia-20510021.jpg"
+  },
+  {
+    "id": 6,
+    "name": "iPhone Clásico - Diseño Icónico y Funcionalidad Eterna",
+    "price": 150,
+    "image": "pexels-brettjordan-2643698.jpg"
+  },
+  {
+    "id": 7,
+    "name": "iMac de Apple - Potencia y Elegancia en un Diseño Todo-en-Uno",
+    "price": 400,
+    "image": "pexels-cottonbro-5082554.jpg"
+  },
+  {
+    "id": 8,
+    "name": "AirPods Apple - Audio Inalámbrico en un Diseño Compacto y Elegante",
+    "price": 80,
+    "image": "pexels-cottonbro-6889216.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Laptop ASUS Ultrafina - Innovación y Desempeño para el Profesional Moderno",
+    "price": 50,
+    "image": "pexels-dominikagregus-669228.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Funda de Cuero Premium para Smartphone - Diseño Elegante y Resistente",
+    "price": 230,
+    "image": "pexels-gentcreate-14188404.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Funda Premium Texturizada para Smartphone - Elegancia y Protección en Cada Detalle",
+    "price": 620,
+    "image": "pexels-gentcreate-18358003.jpg"
+  },
+  {
+    "id": 12,
+    "name": "iPad Apple - Diseño Moderno y Rendimiento Inigualable",
+    "price": 200,
+    "image": "pexels-jibarofoto-13570167.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Logitech MX Master 3 - Precisión y Comodidad para Profesionales",
+    "price": 130,
+    "image": "pexels-jonathanborba-7006946.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Apple Watch Serie 8 - Tecnología Inteligente en tu Muñeca",
+    "price": 170,
+    "image": "pexels-joshsorenson-1334600.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy - Innovación y Estilo en la Palma de tu Mano",
+    "price": 150,
+    "image": "pexels-kolkatarchobiwala-12957102.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Control Inalámbrico Xbox Lunar Silver - Diseño Elegante y Precisión en el Juego",
+    "price": 600,
+    "image": "pexels-lancehe-14642108.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nintendo 3DS - Diversión Portátil y Juegos Clásicos en la Palma de tu Mano",
+    "price": 700,
+    "image": "pexels-mike-esparza-2076296-3702458.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Beats Studio - Sonido Premium y Estilo Icónico",
+    "price": 200,
+    "image": "pexels-nejc-soklic-7862643-6023144.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Funda de Cuero Jisoncase - Protección con Estilo Vibrante",
+    "price": 420,
+    "image": "pexels-rann-vijay-677553-7742554.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Smartwatch con Banda Metálica - Tecnología Sofisticada para tu Estilo de Vida Activo",
+    "price": 300,
+    "image": "pexels-regeci-12307366.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Oppo con Cámara Avanzada y Diseño Sofisticado - Innovación en tus Manos",
+    "price": 670,
+    "image": "pexels-rohit-sharma-1230131-20360365.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Smartphone Oppo Dual-Cámara - Diseño Sofisticado con Acabado Gradiente",
+    "price": 700,
+    "image": "pexels-rohit-sharma-1230131-21424634.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Altavoz Inteligente Minimalista - Diseño Elegante y Audio de Alta Calidad",
+    "price": 270,
+    "image": "pexels-shottrotter-1034653.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Corsair Auriculares Gaming - Estilo Premium y Rendimiento de Audio Espectacular",
+    "price": 145,
+    "image": "pexels-soginoto-495844134-16303235.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Auriculares Plegables Blancos con Estuche de Viaje - Sonido y Comodidad en Movimiento",
+    "price": 80,
+    "image": "pexels-sound-on-3394656.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Concentrador USB-C Multipuertos - Expande la Conectividad de tu Laptop",
+    "price": 70,
+    "image": "pexels-stitch-20076003.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Smartphone Oppo con Diseño Gradiente - Innovación y Estilo Combinados",
+    "price": 470,
+    "image": "pexels-zeleboba-14434416.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Realme - Diseño Elegante con Cámara Dual para Captura Profesional",
+    "price": 500,
+    "image": "pexels-zeleboba-27682695.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Auriculares Blancos Supraaurales - Comodidad y Sonido Premium en Cada Detalle",
+    "price": 75,
+    "image": "pexels-zeleboba-28920288.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Smartwatch con Acabado Rose Gold - Tecnología en Diseño Sofisticado",
+    "price": 250,
+    "image": "pexels-alexandr-borecky-128389-393047.jpg"
+  }
+]

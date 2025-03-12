@@ -1,8 +1,7 @@
-'use client'
-
-import { css, atoms, useTheme } from 'next-yak'
+import { css, atoms } from 'next-yak'
 import PropagateLoaderBase from 'react-spinners/PropagateLoader'
 import type { LoaderSizeProps } from 'react-spinners/helpers/props'
+import { useTheme } from '@/hooks/useTheme'
 
 export default function PropagateLoader({ ...props }: LoaderSizeProps) {
   const theme = useTheme()
@@ -14,7 +13,7 @@ export default function PropagateLoader({ ...props }: LoaderSizeProps) {
       `}
     >
       <PropagateLoaderBase
-        color={theme.colors.dominant.dark}
+        color={theme.colors['sub-dominant'].DEFAULT}
         speedMultiplier={1.2}
         cssOverride={{
           display: 'block',

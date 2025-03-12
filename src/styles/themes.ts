@@ -70,21 +70,6 @@ export const originalTheme = {
   borderRadius: {
     global: '10px',
   },
-
-  images: {
-    'elipse-desk': 'var(--img-elipse-desk)',
-    'elipse-mobile': 'var(--img-elipse-mobile)',
-    'form-login': 'var(--img-form-login)',
-    'register-header': 'var(--img-register-header)',
-    'register-hover-header': 'var(--img-register-hover-header)',
-    'banner-login': 'var(--img-banner-login)',
-    'money-header': 'var(--icon-money-header)',
-    'product-header': 'var(--icon-product-header)',
-    'chart-header': 'var(--icon-chart-header)',
-    'credit-header': 'var(--icon-credit-header)',
-    'wallet-header': 'var(--icon-wallet-header)',
-    'wallet-hover-header': 'var(--icon-wallet-hover-header)',
-  },
 }
 
 // Use variant of themes to overwrite original theme

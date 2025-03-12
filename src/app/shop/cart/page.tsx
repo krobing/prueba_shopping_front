@@ -1,9 +1,9 @@
 import Link from 'next/link'
 import { LuArrowLeft } from 'react-icons/lu'
+import { Button } from 'flowbite-react'
 
 import { ContentSection } from '@/components/containers'
-import AddedProducts from './inc/AddedProducts'
-import { Button } from 'flowbite-react'
+import CartProducts from './inc/CartProducts'
 
 export default function ShopCartPage() {
   return (
@@ -13,7 +13,7 @@ export default function ShopCartPage() {
           Productos agregados
         </h1>
         <p className="mx-auto text-base leading-relaxed lg:w-2/3">
-          Productos que has agregado al carrito de compras, comprueba y finaliza tu
+          Productos que has agregado al carrito de compras, compruébalos y finaliza tu
           compra.
         </p>
       </div>
@@ -28,7 +28,7 @@ export default function ShopCartPage() {
         </Link>
       </div>
 
-      <AddedProducts />
+      <CartProducts />
 
       <div className="mx-auto mt-4 flex w-full pl-4 lg:w-2/3">
         <Button className="ml-auto bg-sub-dominant hover:enabled:bg-sub-dominant-dark">
