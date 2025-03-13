@@ -5,8 +5,8 @@ import { ContentSection } from '@/components/containers'
 import { PropagateLoader } from '@/components/ui/loaders'
 import ProductsGrid from './inc/ProductsGrid'
 
-// actions
-import { fetchProducts } from './actions'
+// data fetchers
+import { fetchProducts } from '@/lib/fetcher'
 
 export default function ShopProductsPage() {
   const products = fetchProducts()

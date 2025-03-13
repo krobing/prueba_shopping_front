@@ -1,10 +1,9 @@
-export const dynamic = 'force-static'
+import { fetchProducts } from '@/lib/fetcher'
 
 export async function GET() {
-  const res = await import('@/data/products.json')
-  const products = res.default
+  const data = await fetchProducts()
 
-  return new Response(JSON.stringify(products), {
+  return new Response(JSON.stringify(data), {
     headers: {
       'Content-Type': 'application/json',
     },

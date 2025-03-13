@@ -7,5 +7,6 @@
   "semi": false,
   "endOfLine": "auto",
   "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindAttributes": ["theme"],
   "tailwindFunctions": ["atoms", "tw"]
 }

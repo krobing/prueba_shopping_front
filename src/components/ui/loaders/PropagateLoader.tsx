@@ -1,7 +1,7 @@
 import { css, atoms } from 'next-yak'
 import PropagateLoaderBase from 'react-spinners/PropagateLoader'
 import type { LoaderSizeProps } from 'react-spinners/helpers/props'
-import { useTheme } from '@/hooks/useTheme'
+import { useTheme } from '@/hooks'
 
 export default function PropagateLoader({ ...props }: LoaderSizeProps) {
   const theme = useTheme()

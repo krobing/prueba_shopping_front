@@ -1,5 +1,5 @@
 import appTheme from '@/styles/appTheme'
 
-export function useTheme() {
+export default function useTheme() {
   return appTheme
 }
